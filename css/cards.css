@@ -1,0 +1,184 @@
+.card {
+	position: absolute;
+	width: 80px;
+	height: 124px;
+	background-image: url('../images/cards.png');
+	float: left;
+}
+
+.card.selected {
+	border: 2px solid yellow;
+}
+
+.clubs_1 {
+	background-position: 0px 0px;
+}
+.clubs_2 {
+	background-position: -80px 0px;
+}
+.clubs_3 {
+	background-position: -160px 0px;
+}
+.clubs_4 {
+	background-position: -240px 0px;
+}
+.clubs_5 {
+	background-position: -320px 0px;
+}
+.clubs_6 {
+	background-position: -400px 0px;
+}
+.clubs_7 {
+	background-position: -480px 0px;
+}
+.clubs_8 {
+	background-position: -560px 0px;
+}
+.clubs_9 {
+	background-position: -640px 0px;
+}
+.clubs_10 {
+	background-position: -720px 0px;
+}
+.clubs_11 {
+	background-position: -800px 0px;
+}
+.clubs_12 {
+	background-position: -880px 0px;
+}
+.clubs_13 {
+	background-position: -960px 0px;
+}
+
+.diamonds_1 {
+	background-position: 0px -125px;
+}
+.diamonds_2 {
+	background-position: -80px -125px;
+}
+.diamonds_3 {
+	background-position: -160px -125px;
+}
+.diamonds_4 {
+	background-position: -240px -125px;
+}
+.diamonds_5 {
+	background-position: -320px -125px;
+}
+.diamonds_6 {
+	background-position: -400px -125px;
+}
+.diamonds_7 {
+	background-position: -480px -125px;
+}
+.diamonds_8 {
+	background-position: -560px -125px;
+}
+.diamonds_9 {
+	background-position: -640px -125px;
+}
+.diamonds_10 {
+	background-position: -720px -125px;
+}
+.diamonds_11 {
+	background-position: -800px -125px;
+}
+.diamonds_12 {
+	background-position: -880px -125px;
+}
+.diamonds_13 {
+	background-position: -960px -125px;
+}
+
+.hearts_1 {
+	background-position: 0px -249px;
+}
+.hearts_2 {
+	background-position: -80px -249px;
+}
+.hearts_3 {
+	background-position: -160px -249px;
+}
+.hearts_4 {
+	background-position: -240px -249px;
+}
+.hearts_5 {
+	background-position: -320px -249px;
+}
+.hearts_6 {
+	background-position: -400px -249px;
+}
+.hearts_7 {
+	background-position: -480px -249px;
+}
+.hearts_8 {
+	background-position: -560px -249px;
+}
+.hearts_9 {
+	background-position: -640px -249px;
+}
+.hearts_10 {
+	background-position: -720px -249px;
+}
+.hearts_11 {
+	background-position: -800px -249px;
+}
+.hearts_12 {
+	background-position: -880px -249px;
+}
+.hearts_13 {
+	background-position: -960px -249px;
+}
+
+.spades_1 {
+	background-position: 0px -374px;
+}
+.spades_2 {
+	background-position: -80px -374px;
+}
+.spades_3 {
+	background-position: -160px -374px;
+}
+.spades_4 {
+	background-position: -240px -374px;
+}
+.spades_5 {
+	background-position: -320px -374px;
+}
+.spades_6 {
+	background-position: -400px -374px;
+}
+.spades_7 {
+	background-position: -480px -374px;
+}
+.spades_8 {
+	background-position: -560px -374px;
+}
+.spades_9 {
+	background-position: -640px -374px;
+}
+.spades_10 {
+	background-position: -720px -374px;
+}
+.spades_11 {
+	background-position: -800px -374px;
+}
+.spades_12 {
+	background-position: -880px -374px;
+}
+.spades_13 {
+	background-position: -960px -374px;
+}
+
+.joker_black {
+	background-position: 0px -498px;
+}
+.joker_red {
+	background-position: -80px -498px;
+}
+.background {
+	background-position: -160px -498px;
+}
+.none {
+	background-position: -240px -498px;
+}
