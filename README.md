@@ -8,7 +8,7 @@ The goal is to remove all Pyramid's cards.
 To remove a card, it must be associated with an other one and their sum must be equals to 13.
 Each card has is numeric value and Kings' value is 13 (no need to be associated with an other card), Queens' value is 12 and Jake' value is 11.
 
-A live demo is avalaible [here](http://www.viadeo-playground.com/pyramid/index)
+A live demo is avalaible [here](https://febbweiss.github.io/games/pyramid/)
 
 Credits :
 ---------
